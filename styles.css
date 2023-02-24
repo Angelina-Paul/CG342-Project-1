@@ -1,5 +1,5 @@
 body {
-  background-color: lavender;
+  background-color: black;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h2 {
 p {
    line-height: 28px;
    font-size: 19px;
-   color: #121023;
+   color: lavender;
    font-family: 'Alice', serif;
 }
 
