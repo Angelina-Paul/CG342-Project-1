@@ -26,9 +26,7 @@ a{
   text-decoration: none;
 }
 
-html { 
-  scroll-behavior: smooth;
-}
+html{ scroll-behavior: smooth;}
 
 body {
   background-color: black;
@@ -86,7 +84,7 @@ nav{
   text-align: center;
   list-style-type: none;
   margin: 0 auto;
-  width: 700px;
+  width: 800px;
 }
 
 .nav-links li {
@@ -102,4 +100,3 @@ nav{
 .nav-links li a {
  padding: 0 10px;
 }
-
