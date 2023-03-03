@@ -48,7 +48,7 @@ body {
   text-decoration: none;
   border-radius: 90px 90px 90px 90px;
   width: 100px;
-  opacity: 50%;
+  opacity: 65%;
   box-shadow:  0 0 10px 1px #fcfcfc;
   display: block;
   text-align: center;
@@ -91,7 +91,7 @@ nav{
   padding: 0 60px;
   font-size: 25px;
   border-radius: 90px 90px 90px 90px;
-  opacity: 50%;
+  opacity: 65%;
   box-shadow:  0 0 10px 1px #fcfcfc;
 }
 
