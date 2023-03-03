@@ -3,6 +3,7 @@ nav{
   position: fixed;
   width: 100%;
   background-color: black;
+  z-index: 10;
 }
 
 .nav-links{
@@ -59,6 +60,8 @@ html{ scroll-behavior: smooth;}
 
 body {
   background-color: black;
+  padding: 0px;
+  margin: 0px;
 }
 
 .title-ghost {
