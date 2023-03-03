@@ -88,10 +88,13 @@ body {
 }
 
 .top-banner {
-  height: 190px;
+  height: 150px;
   text-align: center;
-  padding-top: 70px;
+  padding-top: 80px;
   background-color: black;
+  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701025339.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .main-content {
