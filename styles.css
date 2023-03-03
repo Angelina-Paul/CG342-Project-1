@@ -22,7 +22,7 @@ p {
 }
 
 a{
-  color: #8985c7;
+  color: white;
   text-decoration: none;
 }
 
@@ -45,9 +45,7 @@ body {
 }
 
 .link-button {
-  background-color: lavender;
   text-decoration: none;
-  color: black;
   border-radius: 90px 90px 90px 90px;
   width: 100px;
   opacity: 50%;
@@ -62,7 +60,7 @@ body {
   height: 190px;
   text-align: center;
   padding-top: 70px;
-  background-color: black;
+  background-color: white;
 }
 
 .main-content {
@@ -83,8 +81,21 @@ nav{
 .nav-links{
   text-align: center;
   list-style-type: none;
+  margin: 0 auto;
+  width: 700px;
 }
 
-.nav-links li{
+.nav-links li {
   display: inline;
+  margin: 0;
+  padding: 0 60px;
+  font-size: 25px;
+  border-radius: 90px 90px 90px 90px;
+  opacity: 50%;
+  box-shadow:  0 0 10px 1px #fcfcfc;
 }
+
+.nav-links li a {
+ padding: 0 10px;
+}
+
