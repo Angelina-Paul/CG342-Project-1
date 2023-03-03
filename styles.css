@@ -23,6 +23,7 @@ p {
 
 a{
   color: #8985c7;
+  text-decoration: none;
 }
 
 body {
@@ -61,6 +62,7 @@ body {
   height: 190px;
   text-align: center;
   padding-top: 70px;
+  background-color: black;
 }
 
 .main-content {
@@ -72,4 +74,17 @@ body {
 footer{
   text-align: center;
   padding: 100px;
+}
+
+nav{
+  padding: 20px;
+}
+
+.nav-links{
+  text-align: center;
+  list-style-type: none;
+}
+
+.nav-links li{
+  display: inline;
 }
